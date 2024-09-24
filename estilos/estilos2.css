@@ -1,0 +1,16 @@
+#inicio {
+    line-height: 23p;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 42PX;
+    margin: 55px;
+    background-color: #f1f1f1;
+    color: #717171;
+    font-size: 18px;
+    width: 1300px;
+    height: 1223px;
+    }
+#Nombre{
+    text-align: center;
+    }
